@@ -1,40 +1,24 @@
-# j0458_9103_Tut3
+# Week9 Quiz
+## Part 1: Imaging Technique Inspiration
+The artwork chosen by our group is "Ntange II (Grass)" by Emily Kame Kngwarreye. Its unique point painting method combines point, line, and surface elements with natural elements. Based on this idea, I collected the following sources of inspiration.
 
-I am adding a line of text to my redme.
+  ![An image of Flower Bloomed in my Heart](https://pic.yupoo.com/fotomag/FL9HNhVj/BiXKM.jpg)
 
-# Header 1 
-## Header 2
-### Header 3
-#### Header 4 
-##### Header 5 
-###### Header 6
+Yayoi Kusama frequently employs dot elements and organizes them in rhythmic, repetitive patterns. Through this structured arrangement, the dots often form flowing lines that evoke a sense of organic growth and vitality.
 
-**Bold Text** or __Bold Text__
+  ![An image of Remaining Lotus](https://www.infraculture.org/content/images/size/w2000/2021/12/WGZ.jpeg)
 
-*Italic Text* or _Italc Text_
+Wu Guanzhong’s work Spring Breeze Has Awoken the Southern Shore conveys the unique vitality of spring through seemingly chaotic lines. The freely scattered dot elements also reflect the dynamic beauty of natural growth—irregular yet full of life.
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+The most direct inspiration I drew from these two works is the use of dots and lines to create a sense of movement, expressing the dynamic vitality inherent in nature.
 
-  1. First Item
-  1. First-Second Item
-  1. Second Item
-  1. Third Item
+## Part 2: Coding Technique Exploration
+In this case, the display() function generates smooth lines and dots, mimicking the organic growth seen in the visual inspirations from Part 1. Meanwhile, the update() function introduces dynamic and random movement to the particles, enhancing the sense of liveliness. In the Particle class constructor, the variable randDegrees is used to randomize the particles' speed and direction, capturing the unpredictable and vibrant nature of growth.
 
-  [Link Text](https://www.google.com)
+### The Coding Technique in Action
+[Technology Source](https://openprocessing.org/sketch/2541283)
 
-  ![An image of a cat](https://placekitten.com/200/300)
 
-  ![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![Noise Turbulence Line](Image/Noise-Turbulence-Line.png)
 
-  ```
-  function helloWorld() {
-  console.log("Hello, world!");
-}
-```  
 
-I can write a sentence referencing 'helloWorld()' like this.
-
-> This is a blockquote.
